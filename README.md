@@ -1,8 +1,12 @@
 # Hospital_Management_System
 hospital_management_system
+
 **Company** : CODTECH IT SOLUTIONS
+
 **ID**: CT4JP4662
+
 **Domain**: JAVA PROGRAMMING
+
 **Duration**: july 10 to july 25
 
 **Overview of Hospital Management System**
